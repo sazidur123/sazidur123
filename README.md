@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sazidur123/sazidur123/main/assets/github-banner.png" alt="Md. Sazidur Rahman - GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Sazidur Rahman</h1>
 <h3 align="center">Full Stack Web Developer | React | Node.js | MongoDB</h3>
 
@@ -34,7 +38,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazidur123&show_icons=true&theme=radical" alt="sazidur123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sazidur123&show_icons=true&theme=radical&hide=commits" alt="GitHub stats without commit count" />
 </p>
 
 <p align="left">
