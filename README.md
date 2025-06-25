@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sazidur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Sazidur Rahman</h1>
 <h3 align="center">Full Stack Web Developer | React | Node.js | MongoDB</h3>
 
 <p align="center">
