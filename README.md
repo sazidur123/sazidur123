@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Car Rental System](https://app.netlify.com/projects/carrentalsystema11/overview)**  
+- 🔭 I’m currently working on **[Car Rental System](https://carrentalsystema11.netlify.app/)**  
 - 🌱 I’m currently learning **JavaScript** more deeply  
 - 👨‍💻 All of my projects are available at **[my portfolio](https://yourportfolio.com)**  
 - 📫 Reach me at: **mdsazidurrahman45@gmail.com**  
@@ -49,7 +49,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🚗 [Car Rental System](https://app.netlify.com/projects/carrentalsystema11/overview)
+#### 🚗 [Car Rental System](https://carrentalsystema11.netlify.app/)
 > A complete platform to book, manage, and rent cars online.  
 > 🔗 [Live Site](https://car-rental.vercel.app)  
 > 💻 Tech: MERN Stack, Chart.js, Firebase Auth  
