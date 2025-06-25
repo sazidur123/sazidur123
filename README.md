@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Plant Care Tracker](https://github.com/sazidur123/plant-care-tracker)**  
+- 🔭 I’m currently working on **[Car Rental System](https://app.netlify.com/projects/carrentalsystema11/overview)**  
 - 🌱 I’m currently learning **JavaScript** more deeply  
 - 👨‍💻 All of my projects are available at **[my portfolio](https://yourportfolio.com)**  
 - 📫 Reach me at: **mdsazidurrahman45@gmail.com**  
@@ -49,17 +49,18 @@
 
 ### 🚀 Featured Projects
 
-#### 🌱 [Plant Care Tracker](https://github.com/sazidur123/plant-care-tracker)
+#### 🚗 [Car Rental System](https://app.netlify.com/projects/carrentalsystema11/overview)
+> A complete platform to book, manage, and rent cars online.  
+> 🔗 [Live Site](https://car-rental.vercel.app)  
+> 💻 Tech: MERN Stack, Chart.js, Firebase Auth  
+> 📷 Features: Real-time booking, admin panel, user dashboard
+
+#### 🌱 [Plant Care Tracker](https://plantcarea10.netlify.app/)
 > A full-stack responsive web app to manage and monitor plant care schedules.  
 > 🔗 [Live Site](https://plant-care.vercel.app)  
 > 💻 Tech: React, Node.js, MongoDB, Tailwind CSS, Firebase  
 > 📷 Features: Add plants, care reminders, responsive UI, user authentication
 
-#### 🚗 [Car Rental System](https://github.com/sazidur123/car-rental-system)
-> A complete platform to book, manage, and rent cars online.  
-> 🔗 [Live Site](https://car-rental.vercel.app)  
-> 💻 Tech: MERN Stack, Chart.js, Firebase Auth  
-> 📷 Features: Real-time booking, admin panel, user dashboard
 
 ---
 
