@@ -74,4 +74,4 @@
 
 ---
 
-<p align="center">💻 Built with ❤️ using Markdown & GitHub</p>
+<p align="center">💻 Built with ❤️ & GitHub</p>
